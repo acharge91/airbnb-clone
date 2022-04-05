@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-flat-search/static/css/main.02b5aad1.css",
+    "main.js": "/react-flat-search/static/js/main.f8d4866f.js",
+    "static/js/787.9239aff2.chunk.js": "/react-flat-search/static/js/787.9239aff2.chunk.js",
+    "index.html": "/react-flat-search/index.html",
+    "main.02b5aad1.css.map": "/react-flat-search/static/css/main.02b5aad1.css.map",
+    "main.f8d4866f.js.map": "/react-flat-search/static/js/main.f8d4866f.js.map",
+    "787.9239aff2.chunk.js.map": "/react-flat-search/static/js/787.9239aff2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02b5aad1.css",
+    "static/js/main.f8d4866f.js"
+  ]
+}
